@@ -169,6 +169,9 @@
 .feynman {
   height: 890px;
   position: relative;
+  background-color: #f2f2f2;
+  z-index: -2;
+  padding-top: 100px;
 }
 
 .feynman__title {
@@ -212,7 +215,7 @@
 /* fourth section - kaufman method */
 
 .kaufman {
-  background-color: black;
+  background-color: #1f1f1f;
   color: white;
   position: relative;
   margin-bottom: 0;
@@ -251,7 +254,7 @@
 
 .footer {
   color: white;
-  background-color: black;
+  background-color: #1f1f1f;
   padding: 60px 0 40px;
 }
 
