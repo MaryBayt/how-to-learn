@@ -2,7 +2,7 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  width: 30%;
+  max-width: 30%;
   margin: 70px auto 0;
   text-align: center;
   z-index: 2;
