@@ -1,0 +1,9 @@
+.cards__item {
+  margin: 0;
+  padding: 60px 0 0 0;
+  width: 240px;
+}
+
+.cards__item:not(:nth-child(3)) {
+  margin-right: 100px;
+}
