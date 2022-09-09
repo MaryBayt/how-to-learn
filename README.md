@@ -10,8 +10,6 @@
 
 Используются: HTML5, CSS
 
-**Ссылка на проект**
-
 Перейдите на [GitHub-Pages](https://marybayt.github.io/how-to-learn/), чтобы посмотреть.
 
 Спасибо!
